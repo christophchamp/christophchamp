@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christoph Champ</h1>
-<h3 align="center">Cloud Solution Architect, Senior Cloud Engineer, Senior DevOps Engineer, Linux Systems Administrator, and scientific programmer/computational biologist with strong technical and analytical skills. Experienced in the areas of system administration, automation, hardware, databases, backup, web design (LAMP developer), programming, and scientific research. Interested in Cloud computing, Big Data, machine learning, data mining, pattern extraction, bioinformatics, and open source software development. NOTE: I am 100% a Linux guy.</h3>
+<h3 align="center">DevOps Architect, Cloud Solution Architect, Senior Cloud Engineer, Senior DevOps Engineer, Linux Systems Administrator, and scientific programmer/computational biologist with strong technical and analytical skills. Experienced in the areas of system administration, automation, hardware, databases, backup, web design (LAMP developer), programming, and scientific research. Interested in Cloud computing, Big Data, machine learning, data mining, pattern extraction, bioinformatics, and open source software development. NOTE: I am 100% a Linux guy.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
